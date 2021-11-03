@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.mainDiv{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-color: #292929;
+    padding-top: 1px;
+}
+
+h1{
+    width: fit-content;
+    margin: auto;
+    margin-top: 3rem;
+    color: white;
+}
+
+.inpBox, .timeBox{
+    width: 25rem;
+    height: 40px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.timeBox{
+    width: 15rem;
+    margin-left: 1rem;
+}
+
+.updateBtn{
+    width: 7rem;
+    height: 40px;
+    margin-top: -0.5rem;
+    margin-left: 0.4rem;
+}
