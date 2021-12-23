@@ -2,6 +2,8 @@
   "name": "project-4-todo",
   "version": "0.1.0",
   "private": true,
+  "author": "Arslan Arjumand",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
